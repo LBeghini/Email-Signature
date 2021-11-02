@@ -4,6 +4,9 @@
 This is a simple HTML with my email signature.
 
 ## How To
+
+### Change signature
+
 I'm creating this signature on my Gmail.
 1. Open Gmail.
 2. In the top right, click Settings Settings ⚙️ > **See all settings**
@@ -11,9 +14,19 @@ I'm creating this signature on my Gmail.
 4. In the "Signature" section, paste the signature in the text box. 
 5. At the bottom of the page, click Save Changes.
 
-## Requirements
+### Change svg colors
+In order to change the color of the icons, you must open their file and edit the field "fill" on the tag "path":
+```svg
+<svg width="24" height="25" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="..." fill="#03989E" /> <!-- Change this to whatever color you want -->
+</svg>
+    
 
-Its required to contain the following social media:
+```
+
+## Features
+
+Include links and icons to the following social media:
 - Email
 - WhatsApp
 - LinkedIn
