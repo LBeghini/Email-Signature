@@ -3,6 +3,16 @@
 ## About
 This is a simple HTML with my email signature.
 
+## ✨Features
+
+Include links and icons to the following social media:
+- Email
+- WhatsApp
+- LinkedIn
+- GitHub
+- Discord
+- Telegram
+
 ## How To
 
 ### Change signature
@@ -23,17 +33,6 @@ In order to change the color of the icons, you must open their file and edit the
     
 
 ```
-
-## Features
-
-Include links and icons to the following social media:
-- Email
-- WhatsApp
-- LinkedIn
-- GitHub
-- Discord
-- Telegram
-
 ## 🚀 Visualization
 You can check the visual following [this link](https://lbeghini.github.io/Email-Signature/)
 
