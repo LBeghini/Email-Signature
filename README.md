@@ -14,7 +14,7 @@ I'm creating this signature on my Gmail.
 ## Requirements
 
 Its required to contain the following social media:
-- email
+- Email
 - WhatsApp
 - LinkedIn
 - GitHub
